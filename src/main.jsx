@@ -34,7 +34,7 @@ const habits = [
     points: 10,
     impact: "Reduces home electricity use",
     tip: "Check one room before bed."
-  },
+  }, 
   {
     id: 5,
     title: "Compost kitchen scraps",
